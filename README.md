@@ -16,8 +16,8 @@ using driver: https://github.com/Slamtec/rplidar_ros/tree/ros2
   
 If you want to see the lidar point than use:  
   
-2/a. ros2 launch rplidar_ros view_rplidar_a3_launch.py  
+2. a. ros2 launch rplidar_ros view_rplidar_a3_launch.py  
   
 If you are just want to running simple than use:  
   
-2/b. ros2 launch rplidar_ros rplidar_a3_launch.py  
+2. b. ros2 launch rplidar_ros rplidar_a3_launch.py  
